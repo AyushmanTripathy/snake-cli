@@ -1,0 +1,16 @@
+{
+  "name": "snake-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "snake game on the terminal.",
+  "main": "index.js",
+  "bin":{
+    "snake": "index.js"
+  },
+  "keywords": ["snake","game","cli","terminal"],
+  "author": "AyushmanTripathy",
+  "license": "MIT",
+  "dependencies": {
+    "btss": "^1.2.0"
+  }
+}
